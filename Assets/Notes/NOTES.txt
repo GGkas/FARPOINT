@@ -1,0 +1,5 @@
+############### IMPORTANT TODOS ###############
+
+------- 1) Abstract the Player scripts even more by creating a PlayerController script for movement, as well as a PlayerInventory for handling inventory/resource gathering stuff. -> DONE
+
+------- 2) Implement a function for emitting a Physics2D.Raycast, and then depending on if it hit a Trap, disabling it if you have the right materials to do so.
