@@ -37,7 +37,6 @@ public class PlayerController : MonoBehaviour
         rb2D.MovePosition(currentPos + movement * Time.fixedDeltaTime);  // Since we will only move in FixedUpdate
     }
 
-    // TODO: SOMETHING WRONG IN LOGIC. FIND IT AND FIX IT. VERY CLOSE TO FINISNI
     public void AddToInventory(Item newItem)
     {
         if (playerInventory.Count > 0)
@@ -47,6 +46,7 @@ public class PlayerController : MonoBehaviour
                 playerInventory[newItem] += 1;
                 return;
             }
+            return;
         }
         playerInventory.Add(newItem, 1);
     }
@@ -66,7 +66,7 @@ public class PlayerController : MonoBehaviour
     public void ChangeHealth(int amount)
     {
         if (curHealth > 0)
-            curHealth -= 1;
+            curHealth += amount;
     }
 
     public void TrapInteract(TrapController contr)

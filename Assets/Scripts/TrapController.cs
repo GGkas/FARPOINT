@@ -9,7 +9,7 @@ public class TrapController : MonoBehaviour
         isDisabled = false; //Initially trap acts like a trap, damaging the player
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
         if (isDisabled) { return; } // If trap is disabled, don't do anything
         if (collision != null)
