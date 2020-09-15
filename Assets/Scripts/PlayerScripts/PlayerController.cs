@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
 
     public int maxHealth { get; set; }
     public Rigidbody2D rb2D { get; set; }
+    public Animator animator { get; set; }
     public Vector2 PlayerDirection { get; set; }
     public Dictionary<Item, int> PlayerInventory => playerInventory;
     [SerializeField] private int curHealth;
@@ -20,6 +21,7 @@ public class PlayerController : MonoBehaviour
         playerInventory = new Dictionary<Item, int>();
         maxHealth = 10;
         curHealth = maxHealth;
+        animator = GetComponent<Animator>();
     }
 
     public void Move()
@@ -32,8 +34,13 @@ public class PlayerController : MonoBehaviour
         Vector2 inputVector = new Vector2(moveH, moveV);
         // Gives normalized vector -> direction basically
         PlayerDirection = Vector2.ClampMagnitude(inputVector, 1);
+        animator.SetFloat("Look X", PlayerDirection.x);
+        animator.SetFloat("Look Y", PlayerDirection.y);
         // Velocity vector with speed multiplier
         Vector2 movement = PlayerDirection * _speed;
+        animator.SetFloat("Speed", movement.magnitude);
+        animator.SetFloat("Move X", movement.x);
+        animator.SetFloat("Move Y", movement.y);
         rb2D.MovePosition(currentPos + movement * Time.fixedDeltaTime);  // Since we will only move in FixedUpdate
     }
 
