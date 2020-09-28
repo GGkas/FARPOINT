@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 222e6d87b488f0643bf56b7f9cad0f65, type: 3}
+  m_Name: Coins
+  m_EditorClassIdentifier: 
+  itemName: Gold Coins
+  description: Type of currency. Can be used for trading,
+  isIndestructible: 0
+  isUnique: 0
+  isStackable: 0
+  isQuestItem: 1
+  maxCountInInventory: 1
+  itemIcon: {fileID: 21300000, guid: 24706b9e4a420914e80af20aa6fbf08d, type: 3}

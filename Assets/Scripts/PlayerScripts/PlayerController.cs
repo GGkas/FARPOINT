@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -8,24 +9,36 @@ public class PlayerController : MonoBehaviour
     private Dictionary<Item, int> playerInventory;
 
     public int maxHealth { get; set; }
+    public int maxStamina { get; set; }
     public Rigidbody2D rb2D { get; set; }
     public Animator animator { get; set; }
     public Vector2 PlayerDirection { get; set; }
     public Dictionary<Item, int> PlayerInventory => playerInventory;
     [SerializeField] private int curHealth;
+    [SerializeField] private int curStamina;
+    private bool noMove = false;
 
     // All these probably need to be put inside a SO (apart from the Dictionary)
     void Awake()
     {
         rb2D = GetComponent<Rigidbody2D>();
         playerInventory = new Dictionary<Item, int>();
-        maxHealth = 10;
+        maxHealth = 100;
+        maxStamina = 100;
         curHealth = maxHealth;
+        curStamina = maxStamina;
         animator = GetComponent<Animator>();
     }
 
     public void Move()
     {
+        if (noMove)
+        {
+            curStamina += 2;
+            if (curStamina >= 100) { noMove = false; }
+            UIStaminaBar.instance.setValue(Mathf.Clamp(curStamina, 0.0f, 100.0f) / (float)maxStamina);
+            return;
+        }
         Vector2 currentPos = rb2D.position;
 
         float moveH = Input.GetAxis("Horizontal");
@@ -42,6 +55,13 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("Move X", movement.x);
         animator.SetFloat("Move Y", movement.y);
         rb2D.MovePosition(currentPos + movement * Time.fixedDeltaTime);  // Since we will only move in FixedUpdate
+        curStamina -= Mathf.FloorToInt(movement.magnitude * 0.4f);
+        if (curStamina == 0.0f)
+        {
+            noMove = true;
+        }
+
+        UIStaminaBar.instance.setValue(curStamina / (float)maxStamina);
     }
 
     public void AddToInventory(Item newItem)
@@ -53,9 +73,12 @@ public class PlayerController : MonoBehaviour
                 playerInventory[newItem] += 1;
                 return;
             }
+            playerInventory.Add(newItem, 1);    // Still need to add new item if there are already
+            InventoryUI.instance.SetImage(newItem.itemIcon);
             return;
         }
         playerInventory.Add(newItem, 1);
+        InventoryUI.instance.SetImage(newItem.itemIcon);
     }
     public void RemoveFromInventory(Item removableItem)
     {

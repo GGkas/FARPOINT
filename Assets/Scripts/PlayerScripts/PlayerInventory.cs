@@ -8,7 +8,7 @@ public class PlayerInventory : MonoBehaviour
     private bool canPickUpItem;
     private bool addedToInv;
     private GameObject itemObjRef;
-    void Start()
+    void Awake()
     {
         controller = GetComponent<PlayerController>();
         canPickUpItem = false;  // At start you can't pick up anything, duh
@@ -37,7 +37,7 @@ public class PlayerInventory : MonoBehaviour
     }
 
 
-    private void OnTriggerStay2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision != null)
         {

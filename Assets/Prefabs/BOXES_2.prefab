@@ -10,7 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 8776744123720700968}
   - component: {fileID: 8776744123720700969}
-  - component: {fileID: 8921269879779296384}
+  - component: {fileID: 3623677776047110210}
+  - component: {fileID: 2309130405533423137}
+  - component: {fileID: 3422067930181362342}
   m_Layer: 0
   m_Name: BOXES_2
   m_TagString: Untagged
@@ -68,8 +70,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -807048367
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 64bd13b5120c8fa479c95d4cb62210fd, type: 3}
   m_Color: {r: 0.7924528, g: 0.64753854, b: 0.38501248, a: 1}
@@ -81,9 +83,22 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!58 &8921269879779296384
-CircleCollider2D:
+  m_SpriteSortPoint: 1
+--- !u!114 &3623677776047110210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8776744123720700982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dccda9ff68146424ab2eb2288fac4e51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemRef: {fileID: 11400000, guid: 5f90ab02ec9616642a641682cb12306c, type: 2}
+--- !u!70 &2309130405533423137
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -95,6 +110,32 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.14609432, y: 0.092616975}
+  m_Offset: {x: -0.09700346, y: 0.18075871}
+  m_Size: {x: 0.30361652, y: 0.4399252}
+  m_Direction: 0
+--- !u!61 &3422067930181362342
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8776744123720700982}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.08426714, y: 0.17509365}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.46, y: 0.4}
+    oldSize: {x: 2, y: 1}
+    newSize: {x: 2, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Radius: 0.20558739
+  m_Size: {x: 0.51690006, y: 0.5306649}
+  m_EdgeRadius: 0

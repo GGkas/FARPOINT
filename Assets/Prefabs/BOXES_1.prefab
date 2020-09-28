@@ -10,7 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2084302654962238325}
   - component: {fileID: 2084302654962238324}
-  - component: {fileID: 2170422235136781105}
+  - component: {fileID: 5122645925190600870}
+  - component: {fileID: 4960115183680847280}
+  - component: {fileID: 6861278409232002999}
   m_Layer: 0
   m_Name: BOXES_1
   m_TagString: Destructible
@@ -68,9 +70,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingLayerID: -807048367
+  m_SortingLayer: 1
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 2de9e4e27a99fc8428099d04f2fdcb27, type: 3}
   m_Color: {r: 1, g: 0.99501103, b: 0, a: 1}
   m_FlipX: 0
@@ -81,8 +83,47 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!70 &2170422235136781105
+  m_SpriteSortPoint: 1
+--- !u!114 &5122645925190600870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084302654962238327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dccda9ff68146424ab2eb2288fac4e51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemRef: {fileID: 11400000, guid: 1d3cfb9ad45baf2488c76f9c16fa0646, type: 2}
+--- !u!61 &4960115183680847280
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084302654962238327}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.10237455, y: 0.20203972}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.46, y: 0.38}
+    oldSize: {x: 2, y: 1}
+    newSize: {x: 1, y: 0.5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.7221656, y: 0.60720253}
+  m_EdgeRadius: 0
+--- !u!70 &6861278409232002999
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -95,6 +136,6 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.018884778, y: 0.11802888}
-  m_Size: {x: 0.48922658, y: 0.59309244}
-  m_Direction: 0
+  m_Offset: {x: 0.139535, y: 0.18850946}
+  m_Size: {x: 0.6410541, y: 0.40455484}
+  m_Direction: 1

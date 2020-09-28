@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 1942315857758788349}
   m_Layer: 0
   m_Name: CHARACTER
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,8 +74,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1106287219
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: -6957417804507165128, guid: 178e08683508c0b4291ecc530972d55a,
     type: 3}
@@ -123,8 +123,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0032234192, y: -0.1947248}
-  m_Size: {x: 0.28582764, y: 0.3605504}
+  m_Offset: {x: -0.007139683, y: -0.1948812}
+  m_Size: {x: 0.23883152, y: 0.3602376}
   m_Direction: 0
 --- !u!114 &6974588429016927274
 MonoBehaviour:
@@ -138,8 +138,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c2e1da4232c5a43b3cd248026ff37a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1.5
+  _speed: 2.5
   curHealth: 0
+  curStamina: 0
 --- !u!114 &582190431318964193
 MonoBehaviour:
   m_ObjectHideFlags: 0
