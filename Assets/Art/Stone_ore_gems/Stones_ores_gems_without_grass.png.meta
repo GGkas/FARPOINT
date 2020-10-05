@@ -1,0 +1,1733 @@
+fileFormatVersion: 2
+guid: bb95aeb710c00f148add650a30727405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1109581895446483162
+    second: Stones_ores_gems_without_grass_0
+  - first:
+      213: 4890494990730228990
+    second: Stones_ores_gems_without_grass_1
+  - first:
+      213: 3830396636748753837
+    second: Stones_ores_gems_without_grass_2
+  - first:
+      213: 7620618807552893571
+    second: Stones_ores_gems_without_grass_3
+  - first:
+      213: -7631755463600238178
+    second: Stones_ores_gems_without_grass_4
+  - first:
+      213: 1524554980409304733
+    second: Stones_ores_gems_without_grass_5
+  - first:
+      213: 1672361866732395466
+    second: Stones_ores_gems_without_grass_6
+  - first:
+      213: 932209935187166192
+    second: Stones_ores_gems_without_grass_7
+  - first:
+      213: -3042117289206773921
+    second: Stones_ores_gems_without_grass_8
+  - first:
+      213: 5942300847430687584
+    second: Stones_ores_gems_without_grass_9
+  - first:
+      213: 8121458528164644336
+    second: Stones_ores_gems_without_grass_10
+  - first:
+      213: -3392559607959820886
+    second: Stones_ores_gems_without_grass_11
+  - first:
+      213: -4745072989761975449
+    second: Stones_ores_gems_without_grass_12
+  - first:
+      213: 423728209810394858
+    second: Stones_ores_gems_without_grass_13
+  - first:
+      213: 1929999727840819506
+    second: Stones_ores_gems_without_grass_14
+  - first:
+      213: -6787532651670066389
+    second: Stones_ores_gems_without_grass_15
+  - first:
+      213: -8548071448781746264
+    second: Stones_ores_gems_without_grass_16
+  - first:
+      213: 4625263946568959647
+    second: Stones_ores_gems_without_grass_17
+  - first:
+      213: -7447082977556927534
+    second: Stones_ores_gems_without_grass_18
+  - first:
+      213: 2820686930521817022
+    second: Stones_ores_gems_without_grass_19
+  - first:
+      213: -1650081601258683812
+    second: Stones_ores_gems_without_grass_20
+  - first:
+      213: 8494550822751566268
+    second: Stones_ores_gems_without_grass_21
+  - first:
+      213: -1789551550609364048
+    second: Stones_ores_gems_without_grass_22
+  - first:
+      213: -2415871328723322029
+    second: Stones_ores_gems_without_grass_23
+  - first:
+      213: -8345087744375786404
+    second: Stones_ores_gems_without_grass_24
+  - first:
+      213: -7826480779740236949
+    second: Stones_ores_gems_without_grass_25
+  - first:
+      213: 2066971028890654091
+    second: Stones_ores_gems_without_grass_26
+  - first:
+      213: 1308735141571353798
+    second: Stones_ores_gems_without_grass_27
+  - first:
+      213: -925342125735461222
+    second: Stones_ores_gems_without_grass_28
+  - first:
+      213: -2835553587903957607
+    second: Stones_ores_gems_without_grass_29
+  - first:
+      213: -381141164241984149
+    second: Stones_ores_gems_without_grass_30
+  - first:
+      213: 4519578199903315131
+    second: Stones_ores_gems_without_grass_31
+  - first:
+      213: 4989296644692124008
+    second: Stones_ores_gems_without_grass_32
+  - first:
+      213: -2097522495008807667
+    second: Stones_ores_gems_without_grass_33
+  - first:
+      213: -5934683307078754452
+    second: Stones_ores_gems_without_grass_34
+  - first:
+      213: 5986014189842106628
+    second: Stones_ores_gems_without_grass_35
+  - first:
+      213: -4454524376030335193
+    second: Stones_ores_gems_without_grass_36
+  - first:
+      213: 7755840913591345377
+    second: Stones_ores_gems_without_grass_37
+  - first:
+      213: 7228288862936224077
+    second: Stones_ores_gems_without_grass_38
+  - first:
+      213: 4824142698488171161
+    second: Stones_ores_gems_without_grass_39
+  - first:
+      213: 2870129717158860269
+    second: Stones_ores_gems_without_grass_40
+  - first:
+      213: 608374837898184466
+    second: Stones_ores_gems_without_grass_41
+  - first:
+      213: 8267408496358698075
+    second: Stones_ores_gems_without_grass_42
+  - first:
+      213: -541623322231060043
+    second: Stones_ores_gems_without_grass_43
+  - first:
+      213: 682605862140987200
+    second: Stones_ores_gems_without_grass_44
+  - first:
+      213: -1127208701839302658
+    second: Stones_ores_gems_without_grass_45
+  - first:
+      213: -3216658671942276223
+    second: Stones_ores_gems_without_grass_46
+  - first:
+      213: 722969955571951419
+    second: Stones_ores_gems_without_grass_47
+  - first:
+      213: 8540668777840938384
+    second: Stones_ores_gems_without_grass_48
+  - first:
+      213: -6121401410954972693
+    second: Stones_ores_gems_without_grass_49
+  - first:
+      213: -2069029233195792485
+    second: Stones_ores_gems_without_grass_50
+  - first:
+      213: 5382590136659012891
+    second: Stones_ores_gems_without_grass_51
+  - first:
+      213: -7574444019217534064
+    second: Stones_ores_gems_without_grass_52
+  - first:
+      213: 2412848906990706368
+    second: Stones_ores_gems_without_grass_53
+  - first:
+      213: -7861493013649792810
+    second: Stones_ores_gems_without_grass_54
+  - first:
+      213: -5387816961892776500
+    second: Stones_ores_gems_without_grass_55
+  - first:
+      213: -5862770000115735438
+    second: Stones_ores_gems_without_grass_56
+  - first:
+      213: -2094539601509739865
+    second: Stones_ores_gems_without_grass_57
+  - first:
+      213: 2950236376983169200
+    second: Stones_ores_gems_without_grass_58
+  - first:
+      213: -1955202062719627425
+    second: Stones_ores_gems_without_grass_0
+  - first:
+      213: -2631691404329079348
+    second: Stones_ores_gems_without_grass_1
+  - first:
+      213: -6375041173283168939
+    second: Stones_ores_gems_without_grass_2
+  - first:
+      213: -4221164571003297494
+    second: Stones_ores_gems_without_grass_3
+  - first:
+      213: -4524875161263875387
+    second: Stones_ores_gems_without_grass_4
+  - first:
+      213: 6705376148540777527
+    second: Stones_ores_gems_without_grass_5
+  - first:
+      213: -3040465353928667383
+    second: Stones_ores_gems_without_grass_6
+  - first:
+      213: 7426734025101343355
+    second: Stones_ores_gems_without_grass_7
+  - first:
+      213: -8900213404311857035
+    second: Stones_ores_gems_without_grass_8
+  - first:
+      213: -2161916647011449201
+    second: Stones_ores_gems_without_grass_9
+  - first:
+      213: -4174068157314212490
+    second: Stones_ores_gems_without_grass_10
+  - first:
+      213: -8288923158076859866
+    second: Stones_ores_gems_without_grass_11
+  - first:
+      213: -5762212616798635622
+    second: Stones_ores_gems_without_grass_12
+  - first:
+      213: 8568450455283622713
+    second: Stones_ores_gems_without_grass_13
+  - first:
+      213: 3184243134232532504
+    second: Stones_ores_gems_without_grass_14
+  - first:
+      213: 766309245513865222
+    second: Stones_ores_gems_without_grass_15
+  - first:
+      213: -1300695063650088878
+    second: Stones_ores_gems_without_grass_16
+  - first:
+      213: 8770511174736046591
+    second: Stones_ores_gems_without_grass_17
+  - first:
+      213: 921325298852970
+    second: Stones_ores_gems_without_grass_18
+  - first:
+      213: -8107129714055177828
+    second: Stones_ores_gems_without_grass_19
+  - first:
+      213: 4453315357839462722
+    second: Stones_ores_gems_without_grass_20
+  - first:
+      213: 1614388036694668381
+    second: Stones_ores_gems_without_grass_21
+  - first:
+      213: 5365790118745457421
+    second: Stones_ores_gems_without_grass_22
+  - first:
+      213: -2797001178681341027
+    second: Stones_ores_gems_without_grass_23
+  - first:
+      213: 2380920501401410994
+    second: Stones_ores_gems_without_grass_24
+  - first:
+      213: 2541756828874394173
+    second: Stones_ores_gems_without_grass_25
+  - first:
+      213: -4579117717289217967
+    second: Stones_ores_gems_without_grass_26
+  - first:
+      213: -6992196261013422684
+    second: Stones_ores_gems_without_grass_27
+  - first:
+      213: -5844148405470042663
+    second: Stones_ores_gems_without_grass_28
+  - first:
+      213: 7937049258386197124
+    second: Stones_ores_gems_without_grass_29
+  - first:
+      213: 2275641168234001873
+    second: Stones_ores_gems_without_grass_30
+  - first:
+      213: -150073360031625250
+    second: Stones_ores_gems_without_grass_31
+  - first:
+      213: -4364480264527523893
+    second: Stones_ores_gems_without_grass_32
+  - first:
+      213: 505077809780444242
+    second: Stones_ores_gems_without_grass_33
+  - first:
+      213: -2286223434500126815
+    second: Stones_ores_gems_without_grass_34
+  - first:
+      213: 9130526081346369706
+    second: Stones_ores_gems_without_grass_35
+  - first:
+      213: 4180967485345048471
+    second: Stones_ores_gems_without_grass_36
+  - first:
+      213: 7471539328960241390
+    second: Stones_ores_gems_without_grass_37
+  - first:
+      213: -2394281924747896871
+    second: Stones_ores_gems_without_grass_38
+  - first:
+      213: -2729589094947919643
+    second: Stones_ores_gems_without_grass_39
+  - first:
+      213: 5591375546525612418
+    second: Stones_ores_gems_without_grass_40
+  - first:
+      213: -1522282755136877449
+    second: Stones_ores_gems_without_grass_41
+  - first:
+      213: 6149438027110168981
+    second: Stones_ores_gems_without_grass_42
+  - first:
+      213: -1458212066859615689
+    second: Stones_ores_gems_without_grass_43
+  - first:
+      213: 4255329441702059461
+    second: Stones_ores_gems_without_grass_44
+  - first:
+      213: -1851374481560338654
+    second: Stones_ores_gems_without_grass_45
+  - first:
+      213: -4835668977585642785
+    second: Stones_ores_gems_without_grass_46
+  - first:
+      213: -4334790506969361981
+    second: Stones_ores_gems_without_grass_47
+  - first:
+      213: -3046420066247726275
+    second: Stones_ores_gems_without_grass_48
+  - first:
+      213: 1779430972446935868
+    second: Stones_ores_gems_without_grass_49
+  - first:
+      213: 3676540597885156952
+    second: Stones_ores_gems_without_grass_50
+  - first:
+      213: 5035335129768168477
+    second: Stones_ores_gems_without_grass_51
+  - first:
+      213: -2698704633757059092
+    second: Stones_ores_gems_without_grass_52
+  - first:
+      213: -6747736359258394810
+    second: Stones_ores_gems_without_grass_53
+  - first:
+      213: -1529549216176558272
+    second: Stones_ores_gems_without_grass_54
+  - first:
+      213: -5740235073848130995
+    second: Stones_ores_gems_without_grass_55
+  - first:
+      213: 6459179017517251046
+    second: Stones_ores_gems_without_grass_56
+  - first:
+      213: 5044508879445293734
+    second: Stones_ores_gems_without_grass_57
+  - first:
+      213: -6178657890230448336
+    second: Stones_ores_gems_without_grass_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4c73451abdd4e0800000000000000
+      internalID: -1955202062719627425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd248e6c9a5a7bd0800000000000000
+      internalID: -2631691404329079348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d97fd44dd4787a0800000000000000
+      internalID: -6375041173283168939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2162e6ff296b65c0800000000000000
+      internalID: -4221164571003297494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad0efb30a6431c0800000000000000
+      internalID: -4524875161263875387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734662b94184e0d50800000000000000
+      internalID: 6705376148540777527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0333aed81ec5d0800000000000000
+      internalID: -3040465353928667383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af87f4f3f011760800000000000000
+      internalID: 7426734025101343355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57852da60171c7480800000000000000
+      internalID: -8900213404311857035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8601ec83445ff1e0800000000000000
+      internalID: -2161916647011449201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d5407402bb216c0800000000000000
+      internalID: -4174068157314212490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad158ed44d7fc80800000000000000
+      internalID: -8288923158076859866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99717f87228800b0800000000000000
+      internalID: -5762212616798635622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e6be9a4049e670800000000000000
+      internalID: 8568450455283622713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816186e7244b03c20800000000000000
+      internalID: 3184243134232532504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60893fed23a72aa00800000000000000
+      internalID: 766309245513865222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25848022bb003fde0800000000000000
+      internalID: -1300695063650088878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96cbcf17d17b970800000000000000
+      internalID: 8770511174736046591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642923c0f5430000800000000000000
+      internalID: 921325298852970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991abd7a70bd7f80800000000000000
+      internalID: -8107129714055177828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24110d829ba5dcd30800000000000000
+      internalID: 4453315357839462722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5473d0bd55776610800000000000000
+      internalID: 1614388036694668381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03cf1f0fad177a40800000000000000
+      internalID: 5365790118745457421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b89544f3e0f29d0800000000000000
+      internalID: -2797001178681341027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdd974d49aba0120800000000000000
+      internalID: 2380920501401410994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a4b7a7e52264320800000000000000
+      internalID: 2541756828874394173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150574482b4b370c0800000000000000
+      internalID: -4579117717289217967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adfa7efb8ab6fe90800000000000000
+      internalID: -6992196261013422684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ea452df965eea0800000000000000
+      internalID: -5844148405470042663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a03ea8f30162e60800000000000000
+      internalID: 7937049258386197124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b7dce593b49f10800000000000000
+      internalID: 2275641168234001873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc01df215daedf0800000000000000
+      internalID: -150073360031625250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf42abc2504e63c0800000000000000
+      internalID: -4364480264527523893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c45eb8795620700800000000000000
+      internalID: 505077809780444242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7427536e3b540e0800000000000000
+      internalID: -2286223434500126815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f61b681526be70800000000000000
+      internalID: 9130526081346369706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972375b6c7c50a30800000000000000
+      internalID: 4180967485345048471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee190c0f6d30b760800000000000000
+      internalID: 7471539328960241390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7534f564dc5ced0800000000000000
+      internalID: -2394281924747896871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e869dc1e2d8e1ad0800000000000000
+      internalID: -2729589094947919643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f6786f6e889d40800000000000000
+      internalID: 5591375546525612418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c0d5c46e3cfdae0800000000000000
+      internalID: -1522282755136877449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993e26fd41375550800000000000000
+      internalID: 6149438027110168981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af4a3e9d363cbe0800000000000000
+      internalID: -1458212066859615689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd99eed497fd0b30800000000000000
+      internalID: 4255329441702059461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f7f50d7b89e46e0800000000000000
+      internalID: -1851374481560338654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a1a37fa044ecb0800000000000000
+      internalID: -4835668977585642785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11b58200bb7d3c0800000000000000
+      internalID: -4334790506969361981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3baea22711f8b5d0800000000000000
+      internalID: -3046420066247726275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b0707aa0fc1b810800000000000000
+      internalID: 1779430972446935868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e3f33d132b50330800000000000000
+      internalID: 3676540597885156952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c80e64f9a11e540800000000000000
+      internalID: 5035335129768168477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b5371f664c8ad0800000000000000
+      internalID: -2698704633757059092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6a6448893b52a0800000000000000
+      internalID: -6747736359258394810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa15f7713f5cae0800000000000000
+      internalID: -1529549216176558272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424b080d969650b0800000000000000
+      internalID: -5740235073848130995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9b5cf181d93a950800000000000000
+      internalID: 6459179017517251046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf3a15912b10640800000000000000
+      internalID: 5044508879445293734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones_ores_gems_without_grass_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4620826ff04aa0800000000000000
+      internalID: -6178657890230448336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

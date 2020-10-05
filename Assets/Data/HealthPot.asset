@@ -19,4 +19,4 @@ MonoBehaviour:
   isStackable: 1
   isQuestItem: 0
   maxCountInInventory: 4
-  itemIcon: {fileID: 2800000, guid: ef170d537fa564b429516091e7139765, type: 3}
+  itemIcon: {fileID: 21300000, guid: 016d90a4d6474f84088cfff322f46f94, type: 3}

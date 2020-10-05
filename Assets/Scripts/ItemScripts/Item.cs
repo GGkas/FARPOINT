@@ -13,5 +13,5 @@ public class Item : ScriptableObject
 
     public int maxCountInInventory; // Maximum number of items like this you can hold in inventory
 
-    public Texture2D itemIcon;  // How the item looks in menu
+    public Sprite itemIcon;  // How the item looks in menu
 }
